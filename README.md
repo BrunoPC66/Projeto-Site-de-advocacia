@@ -8,7 +8,7 @@ O site é composto apenas por uma página, porém com seções bem distribuidas.
 
 - Header com barra de navegação e slide manipulado pelo JS;
 - 3 seções para a "Área de atuação";
-- 1 seção dividida em duas partes, utilizando a tag <div>, para o "Sobre nós";
+- 1 seção dividida em duas partes, utilizando a tag div, para o "Sobre nós";
 - 1 seção de "Depoimentos", também dividida em duas partes;
 - 1 seção para "Colaboradores";
 - 1 seção para "Contato", utilizando formulário, porém o input não foi manipulado para guardar nenhum dado (por enquanto);
